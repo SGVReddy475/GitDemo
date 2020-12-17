@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-03T18:33:26 IST" name="Default suite" finished-at="2020-12-03T18:33:27 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2020-12-03T18:33:26 IST" name="Default test" finished-at="2020-12-03T18:33:27 IST" duration-ms="66">
+      <class name="qaclicksacademy.AppTest">
+        <test-method signature="personalMobile()[pri:0, instance:qaclicksacademy.AppTest@6580cfdd]" started-at="2020-12-03T18:33:26 IST" name="personalMobile" finished-at="2020-12-03T18:33:26 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalMobile -->
+      </class> <!-- qaclicksacademy.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
